@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Oie, é o aFrez ✨</a></h1>
 
-<!--
-**ArthurFt/ArthurFt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://i.pinimg.com/originals/66/89/4c/66894c18d23f3be16abf2922240e0d4f.jpg" alt="ilustração de um computador" min-width="100px" width="100px" align="right">
 
-Here are some ideas to get you started:
+<p align="left"> 
+  <strong>Em construção</strong>.<br>
+  ⛑⛑⛑
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## Contact me:
+<a href="mailto:arthutfreztedardi@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+
+
+---
+
+![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
